@@ -1,6 +1,6 @@
 ### Bem-vindo ✌️
 
-```
+```js
 const sobreMim = {
     nome: 'Makson Douglas',
     idade: 27,
