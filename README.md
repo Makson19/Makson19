@@ -6,7 +6,7 @@ const sobreMim = {
     idade: 27,
     formação: 'Graduando em Engenharia Mecânica na UFPB',
     interesses: [
-        'Desenvolvimento Frontend', 
+        'Desenvolvimento Front-end', 
         'Desenvolvimento Mobile'
     ],
     habilidades: ['HTML5', 'CSS3', 'JavaScript', 'Python', 'MatLab'],
