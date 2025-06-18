@@ -3,7 +3,7 @@
 ```js
 const aboutMe = {
     name: "Makson Douglas",
-    educational_background: "Systems for Internet - Unipê",
+    educationalBackground: "Systems for Internet - Unipê",
     skills: [
         "HTML5",
         "CSS3",
