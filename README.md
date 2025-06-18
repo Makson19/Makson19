@@ -1,16 +1,18 @@
-### Bem-vindo ✌️
+### Welcome ✌️
 
 ```js
-const sobreMim = {
-    nome: 'Makson Douglas',
-    idade: 27,
-    formação: 'Graduando em Engenharia Mecânica na UFPB',
-    interesses: [
-        'Desenvolvimento Front-end', 
-        'Desenvolvimento Mobile'
+const aboutMe = {
+    name: "Makson Douglas",
+    educational_background: "Systems for Internet - Unipê",
+    skills: [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Python"
     ],
-    habilidades: ['HTML5', 'CSS3', 'JavaScript', 'Python', 'MatLab'],
-    aprendendo: ['React', 'Sass']
+    learning: [ "Ruby on Rails" ]
 }
 ```
 
@@ -65,4 +67,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+const sobreMim = {
+    nome: 'Makson Douglas',
+    idade: 27,
+    formação: 'Graduando em Engenharia Mecânica na UFPB',
+    interesses: [
+        'Desenvolvimento Front-end', 
+        'Desenvolvimento Mobile'
+    ],
+    habilidades: ['HTML5', 'CSS3', 'JavaScript', 'Python', 'MatLab'],
+    aprendendo: ['React', 'Sass']
+}
 -->
