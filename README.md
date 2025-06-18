@@ -12,7 +12,7 @@ const aboutMe = {
         "React",
         "Python"
     ],
-    learning: [ "Ruby on Rails" ]
+    studying: [ "Ruby on Rails" ]
 }
 ```
 
