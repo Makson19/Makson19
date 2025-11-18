@@ -10,7 +10,8 @@ const aboutMe = {
         "JavaScript",
         "TypeScript",
         "React",
-        "Python"
+        "Python",
+        "Git"
     ],
     studying: [ "Python - Django" ]
 }
